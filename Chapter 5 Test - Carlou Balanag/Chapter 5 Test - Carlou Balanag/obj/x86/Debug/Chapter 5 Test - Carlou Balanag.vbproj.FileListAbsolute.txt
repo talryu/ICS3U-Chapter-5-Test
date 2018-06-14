@@ -1,0 +1,9 @@
+H:\Visual Studio 2010\Projects\Chapter 5 Test - Carlou Balanag\Chapter 5 Test - Carlou Balanag\bin\Debug\Chapter 5 Test - Carlou Balanag.exe
+H:\Visual Studio 2010\Projects\Chapter 5 Test - Carlou Balanag\Chapter 5 Test - Carlou Balanag\bin\Debug\Chapter 5 Test - Carlou Balanag.pdb
+H:\Visual Studio 2010\Projects\Chapter 5 Test - Carlou Balanag\Chapter 5 Test - Carlou Balanag\bin\Debug\Chapter 5 Test - Carlou Balanag.xml
+H:\Visual Studio 2010\Projects\Chapter 5 Test - Carlou Balanag\Chapter 5 Test - Carlou Balanag\obj\x86\Debug\Chapter_5_Test___Carlou_Balanag.Form1.resources
+H:\Visual Studio 2010\Projects\Chapter 5 Test - Carlou Balanag\Chapter 5 Test - Carlou Balanag\obj\x86\Debug\Chapter_5_Test___Carlou_Balanag.Resources.resources
+H:\Visual Studio 2010\Projects\Chapter 5 Test - Carlou Balanag\Chapter 5 Test - Carlou Balanag\obj\x86\Debug\Chapter 5 Test - Carlou Balanag.vbproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\Chapter 5 Test - Carlou Balanag\Chapter 5 Test - Carlou Balanag\obj\x86\Debug\Chapter 5 Test - Carlou Balanag.exe
+H:\Visual Studio 2010\Projects\Chapter 5 Test - Carlou Balanag\Chapter 5 Test - Carlou Balanag\obj\x86\Debug\Chapter 5 Test - Carlou Balanag.xml
+H:\Visual Studio 2010\Projects\Chapter 5 Test - Carlou Balanag\Chapter 5 Test - Carlou Balanag\obj\x86\Debug\Chapter 5 Test - Carlou Balanag.pdb
