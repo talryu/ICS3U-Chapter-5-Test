@@ -1,0 +1,9 @@
+C:\Users\vince\OneDrive\桌面\Vincent Zhu(Chapter 5 Application)\Vincent Zhu(Chapter 5 Application)\bin\Debug\Vincent Zhu(Chapter 5 Application).exe
+C:\Users\vince\OneDrive\桌面\Vincent Zhu(Chapter 5 Application)\Vincent Zhu(Chapter 5 Application)\bin\Debug\Vincent Zhu(Chapter 5 Application).pdb
+C:\Users\vince\OneDrive\桌面\Vincent Zhu(Chapter 5 Application)\Vincent Zhu(Chapter 5 Application)\bin\Debug\Vincent Zhu(Chapter 5 Application).xml
+C:\Users\vince\OneDrive\桌面\Vincent Zhu(Chapter 5 Application)\Vincent Zhu(Chapter 5 Application)\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\vince\OneDrive\桌面\Vincent Zhu(Chapter 5 Application)\Vincent Zhu(Chapter 5 Application)\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\vince\OneDrive\桌面\Vincent Zhu(Chapter 5 Application)\Vincent Zhu(Chapter 5 Application)\obj\x86\Debug\Vincent Zhu(Chapter 5 Application).vbproj.GenerateResource.Cache
+C:\Users\vince\OneDrive\桌面\Vincent Zhu(Chapter 5 Application)\Vincent Zhu(Chapter 5 Application)\obj\x86\Debug\Vincent Zhu(Chapter 5 Application).exe
+C:\Users\vince\OneDrive\桌面\Vincent Zhu(Chapter 5 Application)\Vincent Zhu(Chapter 5 Application)\obj\x86\Debug\Vincent Zhu(Chapter 5 Application).xml
+C:\Users\vince\OneDrive\桌面\Vincent Zhu(Chapter 5 Application)\Vincent Zhu(Chapter 5 Application)\obj\x86\Debug\Vincent Zhu(Chapter 5 Application).pdb
