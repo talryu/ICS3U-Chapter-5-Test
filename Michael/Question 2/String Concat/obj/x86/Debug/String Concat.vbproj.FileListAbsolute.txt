@@ -1,0 +1,9 @@
+h:\visual studio 2010\Projects\String Concat\String Concat\bin\Debug\String Concat.exe
+h:\visual studio 2010\Projects\String Concat\String Concat\bin\Debug\String Concat.pdb
+h:\visual studio 2010\Projects\String Concat\String Concat\bin\Debug\String Concat.xml
+h:\visual studio 2010\Projects\String Concat\String Concat\obj\x86\Debug\WindowsApplication1.Form1.resources
+h:\visual studio 2010\Projects\String Concat\String Concat\obj\x86\Debug\WindowsApplication1.Resources.resources
+h:\visual studio 2010\Projects\String Concat\String Concat\obj\x86\Debug\String Concat.vbproj.GenerateResource.Cache
+h:\visual studio 2010\Projects\String Concat\String Concat\obj\x86\Debug\String Concat.exe
+h:\visual studio 2010\Projects\String Concat\String Concat\obj\x86\Debug\String Concat.xml
+h:\visual studio 2010\Projects\String Concat\String Concat\obj\x86\Debug\String Concat.pdb
