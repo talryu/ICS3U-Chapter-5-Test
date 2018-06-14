@@ -1,0 +1,9 @@
+C:\Users\345896898\AppData\Local\Temporary Projects\Chapter 5 test\obj\x86\Debug\Chapter_5_test.Form1.resources
+C:\Users\345896898\AppData\Local\Temporary Projects\Chapter 5 test\obj\x86\Debug\Chapter_5_test.Resources.resources
+C:\Users\345896898\AppData\Local\Temporary Projects\Chapter 5 test\obj\x86\Debug\Chapter 5 test.vbproj.GenerateResource.Cache
+C:\Users\345896898\AppData\Local\Temporary Projects\Chapter 5 test\bin\Debug\Chapter 5 test.exe
+C:\Users\345896898\AppData\Local\Temporary Projects\Chapter 5 test\bin\Debug\Chapter 5 test.pdb
+C:\Users\345896898\AppData\Local\Temporary Projects\Chapter 5 test\bin\Debug\Chapter 5 test.xml
+C:\Users\345896898\AppData\Local\Temporary Projects\Chapter 5 test\obj\x86\Debug\Chapter 5 test.exe
+C:\Users\345896898\AppData\Local\Temporary Projects\Chapter 5 test\obj\x86\Debug\Chapter 5 test.xml
+C:\Users\345896898\AppData\Local\Temporary Projects\Chapter 5 test\obj\x86\Debug\Chapter 5 test.pdb
