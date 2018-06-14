@@ -1,0 +1,9 @@
+h:\visual studio 2010\Projects\Chapter5_Extra_Practice5\Chapter5_Extra_Practice5\bin\Debug\Chapter5_Extra_Practice5.exe
+h:\visual studio 2010\Projects\Chapter5_Extra_Practice5\Chapter5_Extra_Practice5\bin\Debug\Chapter5_Extra_Practice5.pdb
+h:\visual studio 2010\Projects\Chapter5_Extra_Practice5\Chapter5_Extra_Practice5\bin\Debug\Chapter5_Extra_Practice5.xml
+h:\visual studio 2010\Projects\Chapter5_Extra_Practice5\Chapter5_Extra_Practice5\obj\x86\Debug\WindowsApplication1.Form1.resources
+h:\visual studio 2010\Projects\Chapter5_Extra_Practice5\Chapter5_Extra_Practice5\obj\x86\Debug\WindowsApplication1.Resources.resources
+h:\visual studio 2010\Projects\Chapter5_Extra_Practice5\Chapter5_Extra_Practice5\obj\x86\Debug\Chapter5_Extra_Practice5.vbproj.GenerateResource.Cache
+h:\visual studio 2010\Projects\Chapter5_Extra_Practice5\Chapter5_Extra_Practice5\obj\x86\Debug\Chapter5_Extra_Practice5.exe
+h:\visual studio 2010\Projects\Chapter5_Extra_Practice5\Chapter5_Extra_Practice5\obj\x86\Debug\Chapter5_Extra_Practice5.xml
+h:\visual studio 2010\Projects\Chapter5_Extra_Practice5\Chapter5_Extra_Practice5\obj\x86\Debug\Chapter5_Extra_Practice5.pdb
