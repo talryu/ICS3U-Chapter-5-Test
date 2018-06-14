@@ -1,0 +1,12 @@
+C:\Users\325010858\AppData\Local\Temporary Projects\Chapter 5 Test - Mindy Nguyen\bin\Debug\Chapter 5 Test - Mindy Nguyen.exe
+C:\Users\325010858\AppData\Local\Temporary Projects\Chapter 5 Test - Mindy Nguyen\bin\Debug\Chapter 5 Test - Mindy Nguyen.pdb
+C:\Users\325010858\AppData\Local\Temporary Projects\Chapter 5 Test - Mindy Nguyen\bin\Debug\Chapter 5 Test - Mindy Nguyen.xml
+C:\Users\325010858\AppData\Local\Temporary Projects\Chapter 5 Test - Mindy Nguyen\obj\x86\Debug\Chapter_5_Test___Mindy_Nguyen.Form1.resources
+C:\Users\325010858\AppData\Local\Temporary Projects\Chapter 5 Test - Mindy Nguyen\obj\x86\Debug\Chapter_5_Test___Mindy_Nguyen.Resources.resources
+C:\Users\325010858\AppData\Local\Temporary Projects\Chapter 5 Test - Mindy Nguyen\obj\x86\Debug\Chapter 5 Test - Mindy Nguyen.vbproj.GenerateResource.Cache
+C:\Users\325010858\AppData\Local\Temporary Projects\Chapter 5 Test - Mindy Nguyen\obj\x86\Debug\Chapter 5 Test - Mindy Nguyen.exe
+C:\Users\325010858\AppData\Local\Temporary Projects\Chapter 5 Test - Mindy Nguyen\obj\x86\Debug\Chapter 5 Test - Mindy Nguyen.xml
+C:\Users\325010858\AppData\Local\Temporary Projects\Chapter 5 Test - Mindy Nguyen\obj\x86\Debug\Chapter 5 Test - Mindy Nguyen.pdb
+h:\visual studio 2010\Projects\Chapter 5 Test - Mindy Nguyen\Chapter 5 Test - Mindy Nguyen\obj\x86\Debug\Chapter 5 Test - Mindy Nguyen.exe
+h:\visual studio 2010\Projects\Chapter 5 Test - Mindy Nguyen\Chapter 5 Test - Mindy Nguyen\obj\x86\Debug\Chapter 5 Test - Mindy Nguyen.xml
+h:\visual studio 2010\Projects\Chapter 5 Test - Mindy Nguyen\Chapter 5 Test - Mindy Nguyen\obj\x86\Debug\Chapter 5 Test - Mindy Nguyen.pdb
