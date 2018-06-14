@@ -1,0 +1,9 @@
+D:\In Progress Homework 2017-2018\Chapter 5 Test\Chapter 5 Test\bin\Debug\Chapter 5 Test.exe
+D:\In Progress Homework 2017-2018\Chapter 5 Test\Chapter 5 Test\bin\Debug\Chapter 5 Test.pdb
+D:\In Progress Homework 2017-2018\Chapter 5 Test\Chapter 5 Test\bin\Debug\Chapter 5 Test.xml
+D:\In Progress Homework 2017-2018\Chapter 5 Test\Chapter 5 Test\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\In Progress Homework 2017-2018\Chapter 5 Test\Chapter 5 Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\In Progress Homework 2017-2018\Chapter 5 Test\Chapter 5 Test\obj\x86\Debug\Chapter 5 Test.vbproj.GenerateResource.Cache
+D:\In Progress Homework 2017-2018\Chapter 5 Test\Chapter 5 Test\obj\x86\Debug\Chapter 5 Test.exe
+D:\In Progress Homework 2017-2018\Chapter 5 Test\Chapter 5 Test\obj\x86\Debug\Chapter 5 Test.xml
+D:\In Progress Homework 2017-2018\Chapter 5 Test\Chapter 5 Test\obj\x86\Debug\Chapter 5 Test.pdb
